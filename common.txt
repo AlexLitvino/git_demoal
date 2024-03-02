@@ -1,0 +1,6 @@
+line1
+if text == '':
+a = a + 1
+b = b + 1
+endif;
+hello.
