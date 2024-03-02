@@ -2,6 +2,7 @@ line1
 if text == '':
 a = a + 1
 main = main + 1
+feat3 = feat + 1
 b = b + 1
 endif;
 hello.
