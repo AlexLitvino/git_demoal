@@ -1,7 +1,8 @@
 line1
 if text == '':
+<<<<<<< HEAD
 c = c + 1
 main = main + 1
-d = d + 1
+b = b + 1
 endif;
 hello.
