@@ -1,5 +1,7 @@
 line1
 if text == '':
+c = c + 1
 main = main + 1
+d = d + 1
 endif;
 hello.
