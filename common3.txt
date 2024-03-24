@@ -1,0 +1,5 @@
+line1
+if text == '':
+main = main + 1
+endif;
+hello.
