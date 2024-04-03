@@ -1,6 +1,6 @@
 line1
 if text == '':
-a = a + 10000000000
+a = a + 177777
 main = main + 1
 b = b + 10000000000
 endif;
