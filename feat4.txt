@@ -5,3 +5,4 @@ main = main + 1
 b = b + 10000000000000
 endif;
 hello.
+hello-main
