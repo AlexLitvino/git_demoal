@@ -1,6 +1,6 @@
 line1
 if text == '':
-c = c + 1
+a = a + 1
 main = main + 1
 b = b + 1
 endif;
