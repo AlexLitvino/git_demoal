@@ -1,8 +1,7 @@
 line1
 if text == '':
-a = a + 177777
+a = a + 1
 main = main + 1
-b = b + 10000000000
+b = b + 1
 endif;
 hello.
-hello- main
