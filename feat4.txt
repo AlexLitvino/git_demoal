@@ -1,7 +1,7 @@
 line1
 if text == '':
-a = a + 1
+a = a + 177777
 main = main + 1
-b = b + 1
+b = b + 17777
 endif;
 hello.
